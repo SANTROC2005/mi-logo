@@ -1,6 +1,1 @@
-git clone https://github.com/SANTROC2005/mi-logo.git
-cd mi-logo
-wget https://practic.es/logo.png   # Descarga tu logo
-git add logo.png
-git commit -m "Subir logo"
-git push origin main
+
